@@ -1,10 +1,11 @@
 # FullStackReactVideoApp
 Project Structure
-Backend (FastAPI)
+
+Backend (FastAPI):
 
 main.py: The main FastAPI application file that contains the endpoints for uploading, listing, streaming, and deleting videos.
 
-Frontend (React)
+Frontend (React):
 
 Cam.jsx: The main React component that handles video recording, uploading, and UI interactions.
 
