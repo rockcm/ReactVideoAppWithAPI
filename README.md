@@ -38,6 +38,9 @@ Method: DELETE
 **How to Use:**
 
 Run Api with terminal command: "python -m uvicorn main:app --host localhost --port 8000 --reload". 
+
 Run front end with terminal command: "npm run dev", with node js and react dependencies installed. 
+
 Start recording, then stop recording, name video and hit upload. 
+
 Upload Complete.
