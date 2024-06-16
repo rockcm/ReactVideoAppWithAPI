@@ -44,3 +44,5 @@ Run front end with terminal command: "npm run dev", with node js and react depen
 Start recording, then stop recording, name video and hit upload. 
 
 Upload Complete.
+
+Page will Refresh and display recorded videos in a list with a delete button. 
