@@ -46,3 +46,5 @@ Start recording, then stop recording, name video and hit upload.
 Upload Complete.
 
 Page will Refresh and display recorded videos in a list with a delete button. 
+
+Due to github restriction of uploading less than 100files at a time, I had to zip the project and upload therefore you will have to unzip the file twice when downloading. 
