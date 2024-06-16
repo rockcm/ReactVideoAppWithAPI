@@ -3,7 +3,7 @@
 
 **Backend (FastAPI):**
 
-main.py: The main FastAPI application file that contains the endpoints for uploading, listing, streaming, and deleting videos.
+main.py: The main FastAPI file that contains the endpoints for uploading, listing, streaming, and deleting videos.
 
 **Frontend (React):**
 
@@ -39,7 +39,7 @@ Method: DELETE
 
 Run Api with terminal command: "python -m uvicorn main:app --host localhost --port 8000 --reload". 
 
-Run front end with terminal command: "npm run dev", with node js and react dependencies installed. 
+Run front end with terminal command: "npm run dev", with node js and react dependencies installed.  
 
 Start recording, then stop recording, name video and hit upload. 
 
