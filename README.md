@@ -1,4 +1,4 @@
-# FullStackReactVideoApp
+# ReactVideoAppWithAPI
 **Project Structure-**
 
 **Backend (FastAPI):**
