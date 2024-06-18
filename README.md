@@ -15,6 +15,8 @@ ControlButtons.jsx: A component that contains the start and stop recording butto
 
 VideoNameInput.jsx: A component that allows the user to input the video name and upload the video.
 
+VideoList.jsx: A component that displays all of the recorded videos in the list along with the name of the video
+
 **API Endpoints**
 
 URL: http://localhost:8000
